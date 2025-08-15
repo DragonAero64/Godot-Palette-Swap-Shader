@@ -1,6 +1,6 @@
 # <img src="Media/Icon.png" width="64" height="64"> Godot Palette Swap Shader - With Enabled Parameter
 
-THIS IS THE "with-enabled-param" BRANCH! I liked that parameter enough to make a separate branch to preserve it. All changes meant for KoBeWi's repo are in the "master" branch. :)
+_THIS IS THE "with-enabled-param" BRANCH! I liked that parameter enough to make a separate branch to preserve it. All changes meant for KoBeWi's repo are in the "master" branch. :)_
 
 This shader allows for remapping colors based on a provided palette. It's like your standard palette-swap, except it's easy to setup and supports animation.
 
